@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link rel="stylesheet" href=" " />
-        <meta charset="utf-8" />
+        <link rel="stylesheet" href="stylesheet.css">
+        <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!--[if lt IE 9]><script src=”http://html5shim.googlecode.com/svn/trunk/html5.js”></script><![end if]-->
         <title>TK Photography</title>
@@ -16,22 +16,24 @@
                         <li><a href=" ">Gallery</a></li>
                         <li><a href=" ">Contact</a></li>
                         <li><a href=" ">Top</a></li>
-                    </ul>d
+                    </ul>
                 </nav>
         </header>
+        
         <main>
-
-        <h2>About TK.png</h2>
-        <h3>Hello!</h3>
-        <p>I&apos;m TK and I&apos;m a photographer. I love looking at life through the lens of my camera. Landscape photography is my speciality and it&apos;s taken me all over the world.</p>
-
-        <h3>Gallery</h3>
-        <p>Here are some highlights of my work.</p>
-        <p>The locations and year are in the caption.</p>
+            <section>
+                <h2>About TK.png</h2>
+                <h3>Hello!</h3>
+                <p>I&apos;m TK and I&apos;m a photographer. I love looking at life through the lens of my camera. Landscape photography is my speciality and it&apos;s taken me all over the world.</p>
+            </section>
 
             <section>
+                <h3>Gallery</h3>
+                <p>Here are some highlights of my work.</p>
+                <p>The locations and year are in the caption.</p>
+
                 <figure>
-                    <img src="Chile.png" alt="" title="">
+                    <img src="file:/D:/Photo Gallery Assignment/Chile.png" alt="" title="">
                     <figcaption>Chile, 2001</figcaption>
                 </figure>
 
@@ -92,24 +94,26 @@
             </section>
         </main>
 
-        <h2>Contact</h2>
-        <p>Please fill out this form and I&apos;ll connect with you soon.</p>
+        <section>
+            <h2>Contact</h2>
+            <p>Please fill out this form and I&apos;ll connect with you soon.</p>
 
-        <form>
-            <fieldset>Your contact information</fieldset>
-            
-            <label for="name">Name</label>
-            <input type="text" id="name" placeholder="Your full name">
+            <form>
+                <fieldset>Your contact information</fieldset>
+                
+                <label for="name">Name</label>
+                <input name="name" type="text" id="name" placeholder="Your full name">
 
-            <label for="email">Email</label>
-            <input type="email" id="email" placeholder="Enter your email address">
+                <label for="email">Email</label>
+                <input name="email" type="email" id="email" placeholder="example@example.com">
 
-            <label for="message">Message (What can I help you with?</label>
-            <textarea cols="50" rows="30"></textarea>
+                <label for="message">Message (What can I help you with?</label>
+                <textarea name="message" id="message" cols="50" rows="10"></textarea>
 
-            <label for="submit">Submit</label>
-            <input type="button" id="submit">
-        </form>
+                <label for="submit">Submit</label>
+                <input name="button" value="button" id="submit">
+            </form>
+        </section>
 
         <footer>
             <small>Copyright 2021 TK Photography</small>
