@@ -3,3 +3,7 @@ html {
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
+
+#wrapper {
+    width: 850px;
+}
