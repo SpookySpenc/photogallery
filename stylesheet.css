@@ -80,7 +80,8 @@ a:link {
     object-fit: cover;
     grid-template-columns: 420px 420px 420px;
     grid-template-rows: 281px 281px 281px ;
-    grid-gap: 5px;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
     margin-right: 0px;
     margin-left: 0px;
 }
