@@ -20,24 +20,26 @@ h2 {
     margin: 0px;
 }
 
-.headerWidth {
-    width: 1310px;
-    margin: 0 auto;
-    display: inline;
-}
-
 .topImage {
     float: left;
 }
 
 nav {
     text-align: right;
+    width: auto;
+    float: right;
+    padding: 20px;
+    margin-top: -85px;
+    margin-left: 450px;
 }
 
 nav li {
     display: inline;
     text-transform: uppercase;
     font-weight: bold;
+    margin-left: 100px;
+    margin-right: 50px;
+    text-align: right;
 }
 
 nav a {
@@ -72,6 +74,7 @@ nav a:hover {
     text-align: right;
     float: right;
     padding-right: 10px;
+    margin: 0 auto;
 }
 
 .gallery {
