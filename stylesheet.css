@@ -60,18 +60,18 @@ nav li {
     }
 */
 
-/**
-    .top {
-        position: sticky;
-        background-color: #007D7B;
-        color: #fff;
-    }
+.top {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    background-color: #007D7B;
+    color: #fff;
+}
     
-    .top:hover {
-        background-color: #FFFFFF;
-        color: #000;
-    }
-*/
+.top:hover {
+    background-color: #FFFFFF;
+    color: #000;
+}
 
 .about {
     text-align: right;
