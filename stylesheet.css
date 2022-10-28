@@ -71,6 +71,8 @@ section.gallery {
 
 div figure {
     float: none;
+    display: grid;
+    grid-template-columns: 420px 420px 420px;
 }
 
 #wrapper {
