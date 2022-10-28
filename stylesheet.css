@@ -79,6 +79,7 @@ a:link {
     display: grid;
     object-fit: cover;
     grid-template-columns: 420px 420px 420px;
+    grid-template-rows: 281px 281px 281px ;
     grid-gap: 5px;
     margin-right: 0px;
     margin-left: 0px;
@@ -103,6 +104,10 @@ figcaption {
 form {
     width: 850px;
     margin: 0 auto;
+}
+
+body > section {
+    text-align: center;
 }
 
 label {
