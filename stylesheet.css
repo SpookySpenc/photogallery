@@ -77,7 +77,6 @@ a:link {
 .grid {
     float: none;
     display: grid;
-    position: relative;
     /*grid-template-columns: 420px 420px 420px;*/
     row-gap: 10px;
     column-gap: 10px;
