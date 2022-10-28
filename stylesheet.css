@@ -158,16 +158,21 @@ button {
 }
 
 input[type=text] {
-    padding: 5px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
 }
 
 [placeholder] {
     color: #007D7B;
     text-transform: uppercase;
     opacity: 100%;
+    font-size: 16px;
 }
 
 footer {
+    font-weight: bold;
     font-size: 16px;
     color: #FFFFFF;
     text-align: center;
