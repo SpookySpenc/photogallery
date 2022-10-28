@@ -17,6 +17,11 @@ h2 {
     text-transform: uppercase;
 }
 
+.headerWidth {
+    width: 1310px;
+    margin: 0 auto;
+}
+
 nav ul li a {
     font-size: 20px;
     color: #FFFFFF;
