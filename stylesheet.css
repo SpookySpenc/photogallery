@@ -74,7 +74,7 @@ a:link {
     margin-top: 20px;
 }
 
-.grid {
+div.grid {
     float: none;
     display: grid;
     /*grid-template-columns: 420px 420px 420px;*/
