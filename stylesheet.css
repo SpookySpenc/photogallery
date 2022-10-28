@@ -33,14 +33,14 @@ h2 {
     float: left;
 }
 
-ul li {
+nav ul li {
     font-size: 20px;
     color: #FFFFFF;
     text-transform: uppercase;
     display: inline;
 }
 
-ul li a:hover {
+nav ul li a:hover {
     color: #007D7B;
 }
 
