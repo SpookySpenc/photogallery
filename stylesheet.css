@@ -102,6 +102,7 @@ p {
 figcaption {
     font-size: 16px;
     position: relative;
+    text-transform: uppercase;
 }
 
 .contactSection {
