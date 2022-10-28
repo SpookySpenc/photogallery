@@ -75,7 +75,9 @@ a:link {
 }
 
 div > figure {
+    float: none;
     display: grid;
+    width: 1270px;
     grid-template-columns: 3;
     grid-gap: 5px;
 }
