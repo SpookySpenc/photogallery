@@ -38,7 +38,7 @@ nav ul li a {
     text-transform: uppercase;
 }
 
-ul li {
+ul {
     display: inline;
     float: right;
 }
