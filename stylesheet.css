@@ -74,21 +74,14 @@ a:link {
     margin-top: 20px;
 }
 
-/*
-    .grid {
-        float: none;
-        display: grid;
-        grid-template-columns: 420px 420px 420px;
-        row-gap: 10px;
-        column-gap: 10px;
-        margin-right: 0px;
-        margin-left: 0px;
-    }
-*/
-
-.grid > figure {
+.grid {
+    float: none;
     display: grid;
-    grid: repeat(3, 420px) / auto-flow 20px;
+    grid-template-columns: 420px 420px 420px;
+    row-gap: 10px;
+    column-gap: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 #wrapper {
