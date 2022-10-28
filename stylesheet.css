@@ -9,18 +9,18 @@ h1 {
     font-size: 40px;
     color: #007D7B;
     text-decoration: none;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 h2 {
     font-size: 40px;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 nav ul li a {
     font-size: 20px;
     color: #FFFFFF;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 
 nav ul li a:hover {
