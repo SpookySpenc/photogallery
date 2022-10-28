@@ -100,7 +100,7 @@ figcaption {
 .contactSection {
     color: #fff;
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 5px;
     margin-bottom: 20px;
 }
 
@@ -116,6 +116,7 @@ body > section {
 label {
     color: #fff;
     font-size: 16px;
+    font-weight: normal;
     text-transform: uppercase;
     display: block;
     width: 100%;
