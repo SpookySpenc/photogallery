@@ -59,13 +59,13 @@ a:link {
     color: #000;
 }
 
-.about {
+section.about {
     text-align: right;
     float: right;
     padding-right: 20px;
 }
 
-.gallery {
+section.gallery {
     float: left;
 }
 
