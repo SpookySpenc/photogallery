@@ -68,8 +68,11 @@ a:link {
 }
 
 .gallery {
-    float: left;
     margin-top: 10px;
+}
+
+figure {
+    margin: 0;
 }
 
 div.grid {
