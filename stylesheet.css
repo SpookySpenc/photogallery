@@ -117,7 +117,8 @@ label {
     text-transform: uppercase;
     display: block;
     width: 100%;
-    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-align: left;
 }
 
@@ -131,13 +132,18 @@ input {
     padding: 5px;
 }
 
-section form ~ button {
-    margin: 0 auto;
+button {
     display: block;
     background-color: #007D7B;
     color: #fff;
-    padding: 5px, 30px, 5px, 30px;
-    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 150px;
+    padding-left: 150px;
+    border-radius: 10px;
+    text-transform: uppercase;
 }
 
 footer {
