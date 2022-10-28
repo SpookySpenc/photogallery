@@ -26,13 +26,13 @@ nav ul li a:hover {
 
 a:link {
     text-decoration: none;
+    padding: 5px, 10px, 5px, 10px;
 }
 
 .top {
     position: absolute;
     background-color: #007D7B;
     color: #fff;
-    padding: 5px, 10px, 5px, 10px;
 }
 
 .top:hover {
@@ -57,6 +57,12 @@ figcaption {
 
 form {
     width: 850px;
+    margin: 0 auto;
+}
+
+label {
+    color: #fff;
+    font-size: 16px;
 }
 
 input {
