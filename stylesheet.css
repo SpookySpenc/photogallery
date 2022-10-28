@@ -12,10 +12,6 @@ h1 {
     display: block;
 }
 
-h1:hover {
-    color: #fff;
-}
-
 h2 {
     font-size: 40px;
     text-transform: uppercase;
