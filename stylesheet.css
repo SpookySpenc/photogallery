@@ -147,6 +147,12 @@ figure figcaption {
     color: white;
 }
 
+.bottomLeft {
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 20px;
+}
+
 .contactSection {
     color: #fff;
     font-weight: bold;
