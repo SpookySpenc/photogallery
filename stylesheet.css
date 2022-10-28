@@ -40,6 +40,7 @@ nav ul li a {
 
 ul li {
     display: inline;
+    float: right;
 }
 
 nav ul li a:hover {
@@ -70,13 +71,14 @@ section.about {
 
 section.gallery {
     float: left;
-    padding-top: 20px;
+    margin-top: 20px;
 }
 
 figure {
     float: none;
     display: grid;
     grid-template-columns: 420px 420px 420px;
+    margin: 0px;
 }
 
 #wrapper {
