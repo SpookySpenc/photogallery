@@ -10,6 +10,7 @@ h1 {
     text-decoration: none;
     text-transform: uppercase;
     display: block;
+    padding-left: 20px;
 }
 
 h2 {
@@ -67,7 +68,7 @@ a:link {
 
 .gallery {
     float: left;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .grid {
