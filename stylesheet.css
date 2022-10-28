@@ -8,13 +8,10 @@ html {
 h1 {
     font-size: 40px;
     text-transform: uppercase;
+    text-decoration: none;
     display: block;
     padding-left: 20px;
     color: #007D7B;
-}
-
-h1:link {
-    text-decoration: none;
 }
 
 h2 {
@@ -39,6 +36,11 @@ nav {
 
 nav li {
     display: inline;
+    text-transform: uppercase;
+}
+
+nav a {
+    color: #fff;
 }
 
 /**
@@ -61,11 +63,17 @@ nav li {
 */
 
 .top {
+    text-align: center;
+    font-weight: bold;
     position: fixed;
     bottom: 0px;
     right: 0px;
     background-color: #007D7B;
     color: #fff;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
 }
     
 .top:hover {
