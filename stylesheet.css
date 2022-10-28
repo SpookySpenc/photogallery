@@ -29,21 +29,18 @@ h2 {
     float: left;
 }
 
-nav ul li a {
+nav li {
     font-size: 20px;
     color: #FFFFFF;
     text-transform: uppercase;
-}
-
-li {
     display: inline;
 }
 
-nav ul li a:hover {
+nav a:hover {
     color: #007D7B;
 }
 
-a:link {
+nav a:link {
     text-decoration: none;
     color: #007D7B;
 }
