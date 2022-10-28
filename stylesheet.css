@@ -160,14 +160,12 @@ button {
     text-transform: uppercase;
 }
 
-/*
-    input[type=text] {
-        padding-top: 15px;
-        padding-right: 15px;
-        padding-left: 15px;
-        padding-bottom: 15px;
-    }
-*/
+input[type=text], input[type=email] {
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
 
 [placeholder] {
     color: #007D7B;
