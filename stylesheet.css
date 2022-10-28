@@ -34,7 +34,7 @@ h2 {
     float: left;
 }
 
-nav ul li {
+nav ul li a {
     font-size: 20px;
     color: #FFFFFF;
     text-transform: uppercase;
@@ -90,11 +90,13 @@ form {
 label {
     color: #fff;
     font-size: 16px;
+    display: block;
 }
 
 input {
     color: #007D7B;
     font-size: 16px;
+    display: block;
 }
 
 footer {
