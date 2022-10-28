@@ -37,6 +37,7 @@ nav {
 nav li {
     display: inline;
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 nav a {
@@ -44,24 +45,9 @@ nav a {
     text-decoration: none;
 }
 
-/**
-    nav ul li {
-        font-size: 20px;
-        color: #FFFFFF;
-        text-transform: uppercase;
-        text-decoration: none;
-        display: inline;
-    }
-    
-    nav a:hover {
-        color: #007D7B;
-    }
-    
-    nav a:link {
-        text-decoration: none;
-        color: #007D7B;
-    }
-*/
+nav a:hover {
+    color: #007D7B;
+}
 
 .top {
     text-align: center;
