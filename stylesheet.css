@@ -78,14 +78,10 @@ a:link {
     float: none;
     display: grid;
     object-fit: cover;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 420px 420px 420px;
     grid-gap: 5px;
     margin-right: 0px;
     margin-left: 0px;
-}
-
-figure {
-    margin: 0px;
 }
 
 #wrapper {
