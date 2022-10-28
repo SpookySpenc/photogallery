@@ -82,6 +82,7 @@ nav a:hover {
     padding-top: 10px;
     padding-left: 10px;
     height: 100x;
+    float: none;
 }
 
 figure {
@@ -97,6 +98,7 @@ div.grid {
 }
 
 #wrapper {
+    float: none;
     padding: 10px;
     background-color: #FFFFFF;
 }
