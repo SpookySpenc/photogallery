@@ -132,6 +132,13 @@ figure figcaption {
     color: white;
 }
 
+.bottomRightWhiteUK {
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 340px;
+    color: white;
+}
+
 .bottomRightWhiteIreland {
     position: absolute;
     margin-top: -35px;
