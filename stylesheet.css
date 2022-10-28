@@ -102,6 +102,11 @@ section h2, section p {
     font-weight: bold;
 }
 
+html section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 form {
     width: 850px;
     margin: 0 auto;
