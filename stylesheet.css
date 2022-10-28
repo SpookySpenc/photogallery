@@ -125,13 +125,6 @@ figure figcaption {
     color: white;
 }
 
-.bottomLeftWhite {
-    position: absolute;
-    margin-bottom: -281px;
-    margin-left: 10px;
-    color: white;
-}
-
 .bottomRightWhite {
     position: absolute;
     margin-top: -35px;
