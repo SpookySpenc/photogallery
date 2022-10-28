@@ -75,13 +75,18 @@ a:link {
 }
 
 .grid {
-    float: none;
-    display: grid;
-    grid-template-columns: 420px 420px 420px;
-    row-gap: 10px;
-    column-gap: 10px;
-    margin-right: 0px;
-    margin-left: 0px;
+    /**
+        float: none;
+        display: grid;
+        grid-template-columns: 420px 420px 420px;
+        row-gap: 10px;
+        column-gap: 10px;
+        margin-right: 0px;
+        margin-left: 0px;
+    */
+
+    --gap: 5px;
+    --num-cols: 3;
 }
 
 #wrapper {
