@@ -74,12 +74,12 @@ section.gallery {
     margin-top: 20px;
 }
 
-div figure {
+/*div figure {
     float: none;
     display: grid;
     margin-right: 0px;
     margin-left: 0px;
-}
+}*/
 
 #wrapper {
     width: 1310px;
