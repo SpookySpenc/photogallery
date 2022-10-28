@@ -84,6 +84,10 @@ a:link {
     margin-left: 0px;
 }
 
+figure {
+    margin: 0px;
+}
+
 #wrapper {
     width: 1310px;
     padding: 10px;
