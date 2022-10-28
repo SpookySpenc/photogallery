@@ -22,8 +22,21 @@ nav ul li:hover {
     color: #007D7B;
 }
 
+.top {
+    position: relative;
+    background-color: #007D7B;
+    color: #fff;
+    padding: 5px, 10px, 5px, 10px;
+}
+
+.top:hover {
+    background-color: #FFFFFF;
+    color: #000;
+}
+
 #wrapper {
-    width: 850px;
+    width: 1310px;
+    padding: 10px;
     margin: 0 auto;
     background-color: #FFFFFF;
 }
@@ -34,4 +47,18 @@ p {
 
 figcaption {
     font-size: 16px;
+}
+
+form {
+    width: 850px;
+}
+
+input {
+    color: #007D7B;
+    font-size: 16px;
+}
+
+footer {
+    font-size: 16px;
+    color: #FFFFFF;
 }
