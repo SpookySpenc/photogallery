@@ -36,6 +36,9 @@ nav ul li a {
     font-size: 20px;
     color: #FFFFFF;
     text-transform: uppercase;
+}
+
+ul li {
     display: inline;
 }
 
