@@ -132,6 +132,13 @@ figure figcaption {
     color: white;
 }
 
+.bottomRightWhiteHI {
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 310px;
+    color: white;
+}
+
 .bottomRightWhiteUK {
     position: absolute;
     margin-top: -35px;
