@@ -74,6 +74,10 @@ a:link {
     margin-top: 20px;
 }
 
+div {
+    display: block;
+}
+
 .grid {
     float: none;
     display: grid;
