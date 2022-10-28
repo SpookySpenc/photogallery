@@ -105,6 +105,12 @@ figure figcaption {
     text-transform: uppercase;
 }
 
+.firstTwo {
+    position: absolute;
+    margin-top: -281px;
+    margin-left: 10px;
+}
+
 .contactSection {
     color: #fff;
     font-weight: bold;
