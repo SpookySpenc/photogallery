@@ -77,7 +77,8 @@ section.gallery {
 div figure {
     float: none;
     display: grid;
-    margin: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 
 #wrapper {
