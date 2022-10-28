@@ -112,6 +112,12 @@ figure figcaption {
     margin-left: 10px;
 }
 
+.topLeftIran {
+    position: absolute;
+    margin-top: -630px;
+    margin-left: 10px;
+}
+
 .topLeftWhite {
     position: absolute;
     margin-top: -281px;
