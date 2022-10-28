@@ -49,16 +49,18 @@ a:link {
     color: #007D7B;
 }
 
-.top {
-    position: sticky;
-    background-color: #007D7B;
-    color: #fff;
-}
-
-.top:hover {
-    background-color: #FFFFFF;
-    color: #000;
-}
+/**
+    .top {
+        position: sticky;
+        background-color: #007D7B;
+        color: #fff;
+    }
+    
+    .top:hover {
+        background-color: #FFFFFF;
+        color: #000;
+    }
+*/
 
 .about {
     text-align: right;
