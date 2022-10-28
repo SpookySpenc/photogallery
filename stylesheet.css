@@ -72,7 +72,7 @@ a:link {
     margin-top: 10px;
 }
 
-.grid {
+div.grid {
     float: none;
     /**
         display: grid;
