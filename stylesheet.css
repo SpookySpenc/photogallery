@@ -70,9 +70,10 @@ section.about {
 
 section.gallery {
     float: left;
+    padding-top: 20px;
 }
 
-div figure {
+figure {
     float: none;
     display: grid;
     grid-template-columns: 420px 420px 420px;
