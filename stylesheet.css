@@ -62,10 +62,11 @@ a:link {
 .about {
     text-align: right;
     float: right;
+    padding-right: 20px;
 }
 
 .gallery {
-    float: right;
+    float: left;
 }
 
 div figure {
