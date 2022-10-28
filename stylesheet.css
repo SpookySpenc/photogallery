@@ -114,9 +114,11 @@ body > section {
 label {
     color: #fff;
     font-size: 16px;
+    text-transform: uppercase;
     display: block;
     width: 100%;
     padding: 5px;
+    text-align: left;
 }
 
 input {
@@ -132,6 +134,10 @@ input {
 section form ~ button {
     margin: 0 auto;
     display: block;
+    background-color: #007D7B;
+    color: #fff;
+    padding: 5px, 30px, 5px, 30px;
+    border-radius: 20px;
 }
 
 footer {
@@ -139,4 +145,5 @@ footer {
     color: #FFFFFF;
     text-align: center;
     text-transform: uppercase;
+    padding: 20px;
 }
