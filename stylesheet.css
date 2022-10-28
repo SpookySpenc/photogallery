@@ -35,9 +35,8 @@ nav ul li a {
     text-transform: uppercase;
 }
 
-ul li {
+li {
     display: inline;
-    float: right;
 }
 
 nav ul li a:hover {
