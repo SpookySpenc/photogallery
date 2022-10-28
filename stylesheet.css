@@ -68,7 +68,7 @@ a:link {
 }
 
 .gallery {
-    margin-top: 20px;
+    display: block;
 }
 
 figure {
