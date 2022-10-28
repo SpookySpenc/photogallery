@@ -11,6 +11,7 @@ h1 {
     text-decoration: none;
     text-transform: uppercase;
     float: left;
+    display: block;
 }
 
 h1:hover {
