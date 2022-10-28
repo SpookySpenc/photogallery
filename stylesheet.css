@@ -17,15 +17,18 @@ nav ul li {
     font-size: 20px;
     color: #FFFFFF;
     text-transform: capitalize;
-    text-decoration: none;
 }
 
-nav ul li:hover {
+nav ul li a:hover {
     color: #007D7B;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 .top {
-    position: relative;
+    position: absolute;
     background-color: #007D7B;
     color: #fff;
     padding: 5px, 10px, 5px, 10px;
