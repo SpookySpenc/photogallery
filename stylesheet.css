@@ -212,7 +212,7 @@ input {
     border: 1px solid lightgray;
 }
 
-button {
+input[type=submit] {
     display: block;
     background-color: #007D7B;
     font-weight: bold;
