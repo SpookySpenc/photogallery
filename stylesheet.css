@@ -160,6 +160,7 @@ input[type=text] {
 [placeholder] {
     color: #007D7B;
     text-transform: uppercase;
+    opacity: 100%;
 }
 
 footer {
