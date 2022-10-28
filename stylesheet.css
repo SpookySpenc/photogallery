@@ -76,7 +76,7 @@ nav a:hover {
 
 .gallery {
     display: inline-block;
-    margin-top: 10px;
+    padding-top: 10px;
 }
 
 figure {
