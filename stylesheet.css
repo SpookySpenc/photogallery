@@ -38,10 +38,10 @@ nav ul li a {
     text-transform: uppercase;
 }
 
-ul {
+/*ul {
     display: inline;
     float: right;
-}
+}*/
 
 nav ul li a:hover {
     color: #007D7B;
